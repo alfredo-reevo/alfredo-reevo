@@ -1,5 +1,22 @@
-- 👋 Hi, I’m @alfredo-reevo
-- 👀 I’m interested in Computer Science, particularly areas such as Programming, Software Engineering and Game Development.
-- 🌱 I’m currently learning multiple different languages, with Python being my most fluent. Simultaneously and consequently to learning Game Development, I am experimenting with C#,
-and I have developed some mock-up websites using markup languages and JavaScript.
+# Fonz
 
+##### Student
+
+maths and compsci nerd
+
+#### Studying
+
+- Mathematics
+- Further Mathematics
+- Physics
+- Computer Science
+
+## ***Activities***
+
+<sub>July 2021</sub>
+
+**Teesside University: Summer University** - Computer Sciences(Programming) 
+
+<sub>~January 2022</sub>
+
+[**Calculator-Website** Personal Project](https://github.com/alfredo-reevo/calculator-website)
